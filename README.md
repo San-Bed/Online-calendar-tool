@@ -1,2 +1,2 @@
 # Online-calendar-tool
-This is a web application similar to Doodle. It can be used for time management and coordinating meetings. It was developed by me and my colleague Justin Michaud.
+The application was built for my IFT 1015 - Programming I course and is used for time management and coordinating meetings.
